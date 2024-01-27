@@ -2,7 +2,7 @@
 
 **Project objective:**
 
-   **1.** Create a _[customer performance report](file:///C:/Users/91881/Desktop/reports/Customer%20Performance%20Report.pdf)_ 
+   **1.** Create a _[customer performance report](AtliQ sales and finance report.pdf)_ 
 
   **2.** Conduct a comprehensive comparison between _[market performance and sales targets](file:///C:/Users/91881/Desktop/reports/Market%20Performance%20vs%20Target%20Report.pdf)_
 
